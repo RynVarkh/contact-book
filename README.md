@@ -20,9 +20,11 @@ It allows you to **add** and **view** contacts, storing them in a JSON file for 
 ---
 
 ## 📂 Project Structure
-  ├── contactBook.py # Main script
-  ├── contacts.json # Auto-created file to store contacts
+├── contactBook.py # Main script
 
+├── contacts.json # Auto-created file to store contacts
+
+└── README.md # Project documentation
 
 ---
 
